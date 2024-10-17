@@ -1,4 +1,4 @@
-Hi there! I'm Baqir, a passionate front-end developer student dedicated to crafting seamless user experiences and beautiful web interfaces. 
+Hi there! I'm Baqir, almost finished with my studies in Front-End Development, and I’m actively seeking  LIA - internship opportunity from December 2024 to May 2025!
 
 💻 **Skills & Technologies:**
 - **Languages:** HTML, CSS, JavaScript
@@ -20,4 +20,3 @@ Hi there! I'm Baqir, a passionate front-end developer student dedicated to craft
 📫 **Get in Touch:**
 - https://www.linkedin.com/in/baqir-syed-738048162/
 
-🌐 **Personal Website:** Sjedsson.se
